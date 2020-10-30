@@ -1,3 +1,4 @@
+// Only for test on a single machine
 package main
 
 import (
